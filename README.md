@@ -1,0 +1,2 @@
+# AI-Powered-Multi-Length-Text-Summarizer-using-T5-Transformer
+Developed an AI-based Text Summarization tool using T5 Transformer model that generates summaries in three different lengths (Very Short, Short, Long) based on user preference. Built an interactive web interface using Gradio with features like text input, file upload (.txt), and summary download. 
